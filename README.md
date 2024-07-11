@@ -1,4 +1,4 @@
-#MGAS
+# MGAS
 
 The approach used to sequencing processing and Gilliamella relative abundance qutification
 
@@ -20,7 +20,7 @@ demultiplexing_sequences.sh
 #This script contains the flowing processes:
 
 #a. Using fastq-multx to splite the mixed samples
-# Barcode sequences are listed in barcode.txt
+#Barcode sequences are listed in barcode.txt
 
 demux.sh
 
