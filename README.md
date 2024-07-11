@@ -14,7 +14,7 @@ fastp.sh
 
 Commands are detailed in the bash-script:
 
-workflow.sh
+demultiplexing_sequences.sh
 
 
 #This script contains the flowing processes:
@@ -35,7 +35,7 @@ seqtk.sh
 
 Commands are detailed in the bash-script:
 
-workflow.sh
+qiime2.sh
 
 
 #The script to built a database containing Gilliamella marker gene sequence is given in:
